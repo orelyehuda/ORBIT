@@ -7,4 +7,4 @@ To run build the project using VS and run
 
 #This is what you should see:
 
-![](images/demo1.gif)
+![](demo2.gif)
