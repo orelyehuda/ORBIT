@@ -5,6 +5,12 @@
 
 To run build the project using VS and run
 
-#This is what you should see:
+# This is what you should see:
 
 ![](demo2.gif)
+
+# Usage:
+ - 'a' to add mode
+ - 'i' insert mode to type
+ - 'o' orbiter mode
+ - 's' star mode
